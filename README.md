@@ -7,4 +7,5 @@ experience in this language.
 
  1. First day: how work function print(), what is the structure, 
     some information about type number and string.
+ 2. Second day: learn about type and variables
     
