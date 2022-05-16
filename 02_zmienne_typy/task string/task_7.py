@@ -3,6 +3,6 @@
 number = 12312312312312
 txt = 'hakunamatata'
 
-new_txt ='{}'.format(txt+str(number)+)
+new_txt ='{}'.format(txt+str(number))
 print(new_txt)
 
