@@ -38,4 +38,4 @@ while True:
     user_card_number = input("Podaj nr swojej karty, a powiem Ci od jakiego dostawy jest ta kata\n --> ")
     test = is_card_exist(show_card(user_card_number))
     if test != 'ok':
-        print('W bazie danych nie istnieje dostawca karty o podanym nr')
+        print('W bazie danych nie istnieje dostawca karty o podanym  nr')
